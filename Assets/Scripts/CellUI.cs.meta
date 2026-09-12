@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 84ec5c820738a8048874ad04672e2a58
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clueText: {instanceID: 0}
+  - background: {fileID: 7471573002140643954, guid: 577b98680dc068b449ce384dcc8658ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

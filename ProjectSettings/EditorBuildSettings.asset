@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 39fd9e53bacaac140b2a5ca4d81a262d
+  - enabled: 1
+    path: Assets/Scenes/MosaicSelection.unity
+    guid: af5761d8d0435884f905a8584a2a60c9
+  - enabled: 1
+    path: Assets/Scenes/NonogramSelection.unity
+    guid: 87b94052ca4de09428d846dea270fd76
+  - enabled: 1
+    path: Assets/Scenes/SkyscraperSelection.unity
+    guid: 64453fc87b506314887e8114fedfdd6c
+  - enabled: 1
+    path: Assets/Scenes/MosaicGameplay.unity
+    guid: fd81689b5feb2174385b4c7e216a9555
+  - enabled: 1
+    path: Assets/Scenes/NonogramGameplay.unity
+    guid: eef711764aaf6c7489d593ffd2634707
+  - enabled: 1
+    path: Assets/Scenes/SkyscraperGameplay.unity
+    guid: f2b7ae8e79ee64641b555efcabfbeddc
+  m_configObjects: {}
